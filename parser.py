@@ -7,56 +7,65 @@ OUTPUT = 'catalog.yml'
 
 
 def load_xml(url):
-    r = requests.get(url, timeout=60)
+    r = requests.get(url, timeout=120)
     r.raise_for_status()
-    text = r.content
-    return ET.fromstring(text)
+    return ET.fromstring(r.content)
+
+
+def clean_tag(tag):
+    return tag.split('}')[-1]
 
 
 def find_offers(root):
-    result = {}
+    offers = {}
     for elem in root.iter():
-        if elem.tag.endswith('offer') and elem.attrib.get('id'):
-            result[elem.attrib['id']] = elem
-    return result
+        if clean_tag(elem.tag) == 'offer' and elem.attrib.get('id'):
+            offers[elem.attrib['id']] = elem
+    return offers
+
+
+def find_param(offer, name):
+    for elem in offer.iter():
+        if clean_tag(elem.tag) == 'param' and elem.attrib.get('name') == name:
+            return elem
+    return None
 
 
 def get_stock(offer):
     if offer is None:
         return '0'
-    for child in offer.iter():
-        if child.tag.endswith('stock'):
-            return child.text or '0'
-    for child in offer.findall('.//param'):
-        if child.attrib.get('name') == 'Остаток':
-            return child.text or '0'
-    return '0'
+    for elem in offer.iter():
+        if clean_tag(elem.tag) == 'stock':
+            return elem.text or '0'
+    param = find_param(offer, 'Остаток')
+    return param.text if param is not None and param.text else '0'
 
 
 spb_root = load_xml(SPB_URL)
 msk_root = load_xml(MSK_URL)
 
-msk_offers = find_offers(msk_root)
 spb_offers = find_offers(spb_root)
+msk_offers = find_offers(msk_root)
 
-count = 0
+if len(spb_offers) == 0:
+    raise Exception('SPB offers not found')
+
 for offer_id, offer in spb_offers.items():
-    spb_stock = get_stock(offer)
-    msk_stock = get_stock(msk_offers.get(offer_id))
+    spb = get_stock(offer)
+    msk = get_stock(msk_offers.get(offer_id))
 
-    existing = {p.attrib.get('name'): p for p in offer.findall('param')}
+    p_spb = find_param(offer, 'Остаток СПБ')
+    if p_spb is None:
+        p_spb = ET.SubElement(offer, 'param', {'name': 'Остаток СПБ'})
+    p_spb.text = spb
 
-    p = existing.get('Остаток СПБ')
-    if p is None:
-        p = ET.SubElement(offer, 'param', {'name': 'Остаток СПБ'})
-    p.text = spb_stock
-
-    p = existing.get('Остаток МСК')
-    if p is None:
-        p = ET.SubElement(offer, 'param', {'name': 'Остаток МСК'})
-    p.text = msk_stock
-
-    count += 1
+    p_msk = find_param(offer, 'Остаток МСК')
+    if p_msk is None:
+        p_msk = ET.SubElement(offer, 'param', {'name': 'Остаток МСК'})
+    p_msk.text = msk
 
 ET.ElementTree(spb_root).write(OUTPUT, encoding='utf-8', xml_declaration=True)
-print(f'Generated {count} offers')
+
+print(f'SPB offers: {len(spb_offers)}')
+print(f'MSK offers: {len(msk_offers)}')
+print('Catalog generated successfully')
