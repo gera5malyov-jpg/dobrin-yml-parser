@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-03T00:06:51">
+<yml_catalog date="2026-10-03T05:21:50">
 	<shop>
 		<company>DOBRIN</company>
 		<url>https://d-o-b-r-i-n.com/</url>
@@ -37796,7 +37796,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1010-LM_DISCO/1010-LM_DISCO_belyy/Size_LM-1010.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190501938</barcode>
-				<stock>5</stock>
+				<stock>3</stock>
 				<weight>5.5</weight>
 				<param name="ID">D0000000000000002261</param>
 				<param name="Артикул">LM-1010_CH-M_ABS-white</param>
@@ -37808,8 +37808,8 @@
 				<param name="Прайс ОПТ, руб">4010</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">4540</param>
 				<param name="Прайс РРЦ, руб">5220</param>
-				<param name="Остаток">5</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">3</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">19.10.2026</param>
 				<param name="Наличие РРЦ">5220</param>
@@ -37855,7 +37855,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">20</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">5</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">3</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000002262" available="true">
 				<name>Стул барный DOBRIN DISCO, чёрный</name>
 				<vendor>DOBRIN</vendor>
@@ -113813,7 +113813,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/2640-LM_ELISA/2640-LM_ELISA_belyy/Size_LM-2640.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190508128</barcode>
-				<stock>29</stock>
+				<stock>28</stock>
 				<weight>5.7</weight>
 				<param name="ID">D0000000000000011190</param>
 				<param name="Артикул">LM-2640-N_CH-M_EL-white</param>
@@ -113825,7 +113825,7 @@
 				<param name="Прайс ОПТ, руб">6430</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">7270</param>
 				<param name="Прайс РРЦ, руб">8360</param>
-				<param name="Остаток">29</param>
+				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">19.10.2026</param>
@@ -113868,7 +113868,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">29</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">29</param><param name="Остаток МСК">3</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000011193" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN ELISA, кремовый</name>
 				<vendor>DOBRIN</vendor>
@@ -117641,7 +117641,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1010-LM_DISCO/1010-LM_DISCO_belyy/Size_LM-1010.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190507961</barcode>
-				<stock>2</stock>
+				<stock>1</stock>
 				<weight>5.5</weight>
 				<param name="ID">D0000000000000011258</param>
 				<param name="Артикул">LM-1010-N_CH-M_ABS-white</param>
@@ -117653,7 +117653,7 @@
 				<param name="Прайс ОПТ, руб">7610</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">8600</param>
 				<param name="Прайс РРЦ, руб">9900</param>
-				<param name="Остаток">2</param>
+				<param name="Остаток">1</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">19.10.2026</param>
@@ -117695,7 +117695,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">20</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">2</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000011259" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN DISCO, бордовый металлик</name>
 				<vendor>DOBRIN</vendor>
