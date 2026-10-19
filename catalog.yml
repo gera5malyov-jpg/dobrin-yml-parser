@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-19T01:36:51">
+<yml_catalog date="2026-10-19T04:36:51">
 	<shop>
 		<company>DOBRIN</company>
 		<url>https://d-o-b-r-i-n.com/</url>
@@ -47129,7 +47129,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMR/117B-LMR_BENJAMIN/117B-LMR_BENJAMIN_seryy/Size_LMR-117B.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4640190029922</barcode>
-				<stock>5</stock>
+				<stock>4</stock>
 				<weight>16.4</weight>
 				<param name="ID">D0000000000000010433</param>
 				<param name="Артикул">LMR-117B_CH-M_EL-grey</param>
@@ -47141,8 +47141,8 @@
 				<param name="Прайс ОПТ, руб">10580</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">11960</param>
 				<param name="Прайс РРЦ, руб">13760</param>
-				<param name="Остаток">5</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">4</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">27.10.2026</param>
 				<param name="Наличие РРЦ">13760</param>
@@ -47196,7 +47196,7 @@
 				<param name="Регулировка наклона спинки">да</param>
 				<param name="Ролики">прорезиненные пластиковые</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">5</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">4</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000002489" available="true">
 				<name>Офисное кресло для руководителей DOBRIN CLAYTON, чёрный</name>
 				<vendor>DOBRIN</vendor>
@@ -52478,7 +52478,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">1</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000010512" available="true">
 				<name>Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
@@ -69881,7 +69881,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5025-LM_DARCY/5025-LM_DARCY_myatnyy_velyur_(1922-8)/Size_LM-5025.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190501761</barcode>
-				<stock>26</stock>
+				<stock>25</stock>
 				<weight>8.7</weight>
 				<param name="ID">D0000000000000002393</param>
 				<param name="Артикул">LM-5025_CH-M_V-1922-8</param>
@@ -69893,7 +69893,7 @@
 				<param name="Прайс ОПТ, руб">5340</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">6040</param>
 				<param name="Прайс РРЦ, руб">6950</param>
-				<param name="Остаток">26</param>
+				<param name="Остаток">25</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.11.2026</param>
@@ -69941,7 +69941,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">26</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">26</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">25</param><param name="Остаток МСК">5</param></offer>
 			<offer id="D0000000000000002394" available="true">
 				<name>Стул барный DOBRIN DARCY, песочный велюр (1922-3)</name>
 				<vendor>DOBRIN</vendor>
@@ -153955,7 +153955,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">0</param><param name="Остаток МСК">1</param></offer>
+			<param name="Остаток СПБ">0</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000012193" available="true">
 				<name>Набор 4 шт Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
