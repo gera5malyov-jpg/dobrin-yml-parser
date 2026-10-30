@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-10-30T00:51:55">
+<yml_catalog date="2026-10-30T05:21:53">
 	<shop>
 		<company>DOBRIN</company>
 		<url>https://d-o-b-r-i-n.com/</url>
@@ -22151,7 +22151,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMY/16TD-LMY_WILL_BAR/16TD-LMY_WILL_BAR_belaya_stoleshnitsa__seroe_osnovanie/Size_LMY-TD16.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167598750</barcode>
-				<stock>5</stock>
+				<stock>1</stock>
 				<weight>7.9</weight>
 				<param name="ID">D0000000000000013569</param>
 				<param name="Артикул">LMY-TD16_GR-M_P-white</param>
@@ -22163,8 +22163,8 @@
 				<param name="Прайс ОПТ, руб">4890</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">5530</param>
 				<param name="Прайс РРЦ, руб">6360</param>
-				<param name="Остаток">5</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">1</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
 				<param name="Наличие РРЦ">6360</param>
@@ -22196,7 +22196,7 @@
 				<param name="Форма столешницы">круглая</param>
 				<param name="Вращение столешницы">нет</param>
 				<param name="Тип поверхности">матовый</param>
-			<param name="Остаток СПБ">5</param><param name="Остаток МСК">2</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">2</param></offer>
 			<offer id="D0000000000000013638" available="true">
 				<name>Набор 2 шт Стул обеденный DOBRIN BOSCO, светло-серый букле (UF995-02), бежевые ножки</name>
 				<vendor>DOBRIN</vendor>
@@ -132529,7 +132529,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5019_BlackBase-LM_CHARLY_BLACK/5019_BlackBase-LM_CHARLY_BLACK_terrakotovyy_tvid_(LEO56)/Size_LM-5019_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595964</barcode>
-				<stock>29</stock>
+				<stock>28</stock>
 				<weight>8.9</weight>
 				<param name="ID">D0000000000000012986</param>
 				<param name="Артикул">LM-5019-N_B-M_CT-LEO56</param>
@@ -132541,7 +132541,7 @@
 				<param name="Прайс ОПТ, руб">12420</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">14040</param>
 				<param name="Прайс РРЦ, руб">16150</param>
-				<param name="Остаток">29</param>
+				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -132585,7 +132585,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">33</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">29</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">5</param></offer>
 			<offer id="D0000000000000012987" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN CHARLY BLACK, серый твид (LEO11)</name>
 				<vendor>DOBRIN</vendor>
