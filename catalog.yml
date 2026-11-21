@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-21T16:33:10">
+<yml_catalog date="2026-11-21T23:17:57">
 	<shop>
 		<company>DOBRIN</company>
 		<url>https://d-o-b-r-i-n.com/</url>
@@ -3154,7 +3154,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5037_BlackBase-LM_TRAVIS/5037_BlackBase-LM_TRAVIS_kakao_(VIVALDI43)/Size_LM-5037_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595278</barcode>
-				<stock>22</stock>
+				<stock>18</stock>
 				<weight>6.8</weight>
 				<param name="ID">D0000000000000012872</param>
 				<param name="Артикул">LM-5037_B-M_VIVALDI43</param>
@@ -3166,8 +3166,8 @@
 				<param name="Прайс ОПТ, руб">4270</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">4830</param>
 				<param name="Прайс РРЦ, руб">5560</param>
-				<param name="Остаток">22</param>
-				<param name="Характеристика остатка">меньше 30</param>
+				<param name="Остаток">18</param>
+				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.12.2026</param>
 				<param name="Наличие РРЦ">5560</param>
@@ -3215,7 +3215,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">22</param><param name="Остаток МСК">6</param></offer>
+			<param name="Остаток СПБ">18</param><param name="Остаток МСК">6</param></offer>
 			<offer id="D0000000000000012873" available="true">
 				<name>Стул барный DOBRIN TRAVIS, серый (VIVALDI15)</name>
 				<vendor>DOBRIN</vendor>
@@ -4612,7 +4612,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5037_BlackBase-LM_TRAVIS/5037_BlackBase-LM_TRAVIS_kakao_(VIVALDI43)/Size_LM-5037_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595902</barcode>
-				<stock>11</stock>
+				<stock>9</stock>
 				<weight>6.8</weight>
 				<param name="ID">D0000000000000012994</param>
 				<param name="Артикул">LM-5037-N_B-M_TT-VIVALDI43</param>
@@ -4624,7 +4624,7 @@
 				<param name="Прайс ОПТ, руб">8140</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9200</param>
 				<param name="Прайс РРЦ, руб">10590</param>
-				<param name="Остаток">11</param>
+				<param name="Остаток">9</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.12.2026</param>
@@ -4668,7 +4668,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">11</param><param name="Остаток МСК">3</param></offer>
+			<param name="Остаток СПБ">9</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000012995" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN TRAVIS, серый (VIVALDI15)</name>
 				<vendor>DOBRIN</vendor>
@@ -7344,7 +7344,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/7035-LML_LORRY/7035-LML_LORRY_bezhevyy_polulen_(Q52-05)__osnovanie_pod_derevo_orekh/Size_LML-7035.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167598804</barcode>
-				<stock>11</stock>
+				<stock>3</stock>
 				<weight>6.2</weight>
 				<param name="ID">D0000000000000013195</param>
 				<param name="Артикул">LML-7035_B-M_C-Q52-05</param>
@@ -7356,8 +7356,8 @@
 				<param name="Прайс ОПТ, руб">5500</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">6220</param>
 				<param name="Прайс РРЦ, руб">7150</param>
-				<param name="Остаток">11</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">3</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">7150</param>
@@ -7400,7 +7400,7 @@
 				<param name="Высота спинки, см">33</param>
 				<param name="Высота, см">79</param>
 				<param name="Высота сиденья, см">49</param>
-			<param name="Остаток СПБ">11</param><param name="Остаток МСК">3</param></offer>
+			<param name="Остаток СПБ">3</param><param name="Остаток МСК">1</param></offer>
 			<offer id="D0000000000000013215" available="true">
 				<name>Стул обеденный DOBRIN LORRY, светло-бежевый полулён (Q52-02), черное основание</name>
 				<vendor>DOBRIN</vendor>
@@ -7951,7 +7951,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/7085-LML_ALFREDO/7085-LML_ALFREDO_bezhevyy_len_(G681-13A)__chernoe_osnovanie/Size_LML-7085.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167598835</barcode>
-				<stock>17</stock>
+				<stock>16</stock>
 				<weight>8.6</weight>
 				<param name="ID">D0000000000000013209</param>
 				<param name="Артикул">LML-7085_B-M_Li-G681-13A</param>
@@ -7963,7 +7963,7 @@
 				<param name="Прайс ОПТ, руб">7820</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">8840</param>
 				<param name="Прайс РРЦ, руб">10170</param>
-				<param name="Остаток">17</param>
+				<param name="Остаток">16</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">25.11.2026</param>
@@ -8008,7 +8008,7 @@
 				<param name="Высота спинки, см">38</param>
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">48</param>
-			<param name="Остаток СПБ">17</param><param name="Остаток МСК">2</param></offer>
+			<param name="Остаток СПБ">16</param><param name="Остаток МСК">2</param></offer>
 			<offer id="D0000000000000013213" available="true">
 				<name>Стул барный DOBRIN LORREN, серый шенилл (UF998-15), черное основание</name>
 				<vendor>DOBRIN</vendor>
@@ -9388,7 +9388,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMZL/601PP-LMZL_MASTERS/601PP-LMZL_MASTERS_zelenyy_khaki_(G-17)/Size_LMZL-PP601.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596664</barcode>
-				<stock>7</stock>
+				<stock>4</stock>
 				<weight>4</weight>
 				<param name="ID">D0000000000000013313</param>
 				<param name="Артикул">LMZL-PP601-N2_P_G-17</param>
@@ -9400,8 +9400,8 @@
 				<param name="Прайс ОПТ, руб">5570</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">6300</param>
 				<param name="Прайс РРЦ, руб">7250</param>
-				<param name="Остаток">7</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">4</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">7250</param>
@@ -9438,7 +9438,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">7</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">4</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013314" available="true">
 				<name>Набор 2 шт Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
@@ -10357,7 +10357,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMZL/601PP-LMZL_MASTERS/601PP-LMZL_MASTERS_zelenyy_khaki_(G-17)/Size_LMZL-PP601.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596800</barcode>
-				<stock>5</stock>
+				<stock>3</stock>
 				<weight>4</weight>
 				<param name="ID">D0000000000000013328</param>
 				<param name="Артикул">LMZL-PP601-N3_P_G-17</param>
@@ -10369,8 +10369,8 @@
 				<param name="Прайс ОПТ, руб">8360</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9450</param>
 				<param name="Прайс РРЦ, руб">10870</param>
-				<param name="Остаток">5</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">3</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">10870</param>
@@ -10407,7 +10407,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">5</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">3</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013329" available="true">
 				<name>Набор 3 шт Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
@@ -22626,7 +22626,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1502-LM_CONNOR/1502-LM_CONNOR_rozovyy_iskusstvennyy_krolik_(11)/Size_LM-1502.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599511</barcode>
-				<stock>22</stock>
+				<stock>21</stock>
 				<weight>14.1</weight>
 				<param name="ID">D0000000000000013607</param>
 				<param name="Артикул">LM-1502_AW-11</param>
@@ -22638,7 +22638,7 @@
 				<param name="Прайс ОПТ, руб">7990</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9030</param>
 				<param name="Прайс РРЦ, руб">10390</param>
-				<param name="Остаток">22</param>
+				<param name="Остаток">21</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">25.11.2026</param>
@@ -22669,7 +22669,7 @@
 				<param name="Высота спинки, см">40</param>
 				<param name="Высота, см">80</param>
 				<param name="Высота сиденья, см">45</param>
-			<param name="Остаток СПБ">22</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">21</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013608" available="true">
 				<name>Бескаркасное кресло DOBRIN CONNOR, серый искусственный кролик (36)</name>
 				<vendor>DOBRIN</vendor>
@@ -22689,7 +22689,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1502-LM_CONNOR/1502-LM_CONNOR_seryy_iskusstvennyy_krolik_(36)/Size_LM-1502.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599528</barcode>
-				<stock>27</stock>
+				<stock>26</stock>
 				<weight>14.1</weight>
 				<param name="ID">D0000000000000013608</param>
 				<param name="Артикул">LM-1502_GR_AW-36</param>
@@ -22701,7 +22701,7 @@
 				<param name="Прайс ОПТ, руб">7990</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9030</param>
 				<param name="Прайс РРЦ, руб">10390</param>
-				<param name="Остаток">27</param>
+				<param name="Остаток">26</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
@@ -22731,7 +22731,7 @@
 				<param name="Высота спинки, см">40</param>
 				<param name="Высота, см">80</param>
 				<param name="Высота сиденья, см">45</param>
-			<param name="Остаток СПБ">27</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">26</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013609" available="true">
 				<name>Бескаркасное кресло DOBRIN CONNOR, темно-синее букле (12)</name>
 				<vendor>DOBRIN</vendor>
@@ -22807,7 +22807,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1502-LM_CONNOR/1502-LM_CONNOR_temno-seroe_bukle_(03)/Size_LM-1502.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599535</barcode>
-				<stock>28</stock>
+				<stock>27</stock>
 				<weight>14.1</weight>
 				<param name="ID">D0000000000000013610</param>
 				<param name="Артикул">LM-1502_CB-03</param>
@@ -22819,7 +22819,7 @@
 				<param name="Прайс ОПТ, руб">7990</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9030</param>
 				<param name="Прайс РРЦ, руб">10390</param>
-				<param name="Остаток">28</param>
+				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">25.11.2026</param>
@@ -22850,7 +22850,7 @@
 				<param name="Высота спинки, см">40</param>
 				<param name="Высота, см">80</param>
 				<param name="Высота сиденья, см">45</param>
-			<param name="Остаток СПБ">28</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">27</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013612" available="true">
 				<name>Бескаркасное кресло DOBRIN SHELL, белое букле (01)</name>
 				<vendor>DOBRIN</vendor>
@@ -23176,7 +23176,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/1504-LM_LANE/1504-LM_LANE_bezhevyy_iskusstvennyy_krolik_(16)/Size_LM-1504.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599580</barcode>
-				<stock>21</stock>
+				<stock>20</stock>
 				<weight>15.8</weight>
 				<param name="ID">D0000000000000013618</param>
 				<param name="Артикул">LM-1504_BG_AW-16</param>
@@ -23188,7 +23188,7 @@
 				<param name="Прайс ОПТ, руб">8450</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9550</param>
 				<param name="Прайс РРЦ, руб">10990</param>
-				<param name="Остаток">21</param>
+				<param name="Остаток">20</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">25.11.2026</param>
@@ -23219,7 +23219,7 @@
 				<param name="Высота спинки, см">32</param>
 				<param name="Высота, см">75</param>
 				<param name="Высота сиденья, см">47</param>
-			<param name="Остаток СПБ">21</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">20</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013619" available="true">
 				<name>Бескаркасное кресло DOBRIN LANE, черный искусственный кролик (02)</name>
 				<vendor>DOBRIN</vendor>
@@ -23579,7 +23579,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/7035-LML_LORRY/7035-LML_LORRY_bezhevyy_polulen_(Q52-05)__osnovanie_pod_derevo_orekh/Size_LML-7035.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599009</barcode>
-				<stock>5</stock>
+				<stock>1</stock>
 				<weight>6.2</weight>
 				<param name="ID">D0000000000000013642</param>
 				<param name="Артикул">LML-7035-N_M_Sli-Q52-05</param>
@@ -23591,8 +23591,8 @@
 				<param name="Прайс ОПТ, руб">10600</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">11980</param>
 				<param name="Прайс РРЦ, руб">13780</param>
-				<param name="Остаток">5</param>
-				<param name="Характеристика остатка">меньше 20</param>
+				<param name="Остаток">1</param>
+				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">13780</param>
@@ -23630,7 +23630,7 @@
 				<param name="Высота спинки, см">33</param>
 				<param name="Высота, см">79</param>
 				<param name="Высота сиденья, см">49</param>
-			<param name="Остаток СПБ">5</param><param name="Остаток МСК">1</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000013644" available="true">
 				<name>Набор 2 шт Стул обеденный DOBRIN ALFREDO, бежевая льняная ткань (G681-13A)</name>
 				<vendor>DOBRIN</vendor>
@@ -26465,7 +26465,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота, см">72</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">21</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">20</param></offer>
 			<offer id="D0000000000000000027" available="true">
 				<name>Подстолье обеденное DOBRIN ALAN</name>
 				<vendor>DOBRIN</vendor>
@@ -27206,7 +27206,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">19</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">3</param><param name="Остаток МСК">4</param></offer>
+			<param name="Остаток СПБ">3</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000002128" available="false">
 				<name>Стул барный DOBRIN MIRA, красный глянцевый</name>
 				<vendor>DOBRIN</vendor>
@@ -27431,7 +27431,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">19</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">13</param><param name="Остаток МСК">10</param></offer>
+			<param name="Остаток СПБ">13</param><param name="Остаток МСК">8</param></offer>
 			<offer id="D0000000000000002131" available="false">
 				<name>Стул барный DOBRIN MIRA, оранжевый</name>
 				<vendor>DOBRIN</vendor>
@@ -29330,7 +29330,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">14</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">12</param></offer>
 			<offer id="D0000000000000011858" available="true">
 				<name>Стул барный DOBRIN CANDY, черный</name>
 				<vendor>DOBRIN</vendor>
@@ -40835,7 +40835,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/3013-LM_TOMMY/3013-LM_TOMMY_seryy/Size_LM-3013.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190503536</barcode>
-				<stock>28</stock>
+				<stock>27</stock>
 				<weight>5</weight>
 				<param name="ID">D0000000000000003652</param>
 				<param name="Артикул">LM-3013_CH-M_EL-188-55</param>
@@ -40847,7 +40847,7 @@
 				<param name="Прайс ОПТ, руб">3160</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">3580</param>
 				<param name="Прайс РРЦ, руб">4110</param>
-				<param name="Остаток">28</param>
+				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.12.2026</param>
@@ -40895,7 +40895,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">6</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">28</param><param name="Остаток МСК">19</param></offer>
+			<param name="Остаток СПБ">27</param><param name="Остаток МСК">19</param></offer>
 			<offer id="D0000000000000002286" available="false">
 				<name>Стул барный LM-3019, белый</name>
 				<vendor>DOBRIN</vendor>
@@ -53776,7 +53776,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMZL/601PP-LMZL_MASTERS/601PP-LMZL_MASTERS_zelenyy_khaki_(G-17)/Size_LMZL-PP601.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190505721</barcode>
-				<stock>15</stock>
+				<stock>9</stock>
 				<weight>4.1</weight>
 				<param name="ID">D0000000000000004793</param>
 				<param name="Артикул">LMZL-PP601_P-G-17</param>
@@ -53788,7 +53788,7 @@
 				<param name="Прайс ОПТ, руб">2990</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">3380</param>
 				<param name="Прайс РРЦ, руб">3890</param>
-				<param name="Остаток">15</param>
+				<param name="Остаток">9</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">28.12.2026</param>
@@ -53831,7 +53831,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">15</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">9</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000010512" available="true">
 				<name>Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
@@ -60623,7 +60623,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5018-LM_DOMINIC/5018-LM_DOMINIC_bordo_velyur_(MJ9-43)/Size_LM-5018.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190501990</barcode>
-				<stock>4</stock>
+				<stock>2</stock>
 				<weight>8.5</weight>
 				<param name="ID">D0000000000000002374</param>
 				<param name="Артикул">LM-5018_B-M_V-MJ9-43</param>
@@ -60635,7 +60635,7 @@
 				<param name="Прайс ОПТ, руб">4490</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">5080</param>
 				<param name="Прайс РРЦ, руб">5840</param>
-				<param name="Остаток">4</param>
+				<param name="Остаток">2</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -60683,7 +60683,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">4</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">2</param><param name="Остаток МСК">5</param></offer>
 			<offer id="D0000000000000002375" available="false">
 				<name>Стул барный DOBRIN DOMINIC, фиолет велюр (MJ9-58)</name>
 				<vendor>DOBRIN</vendor>
@@ -81724,7 +81724,7 @@
 				<param name="Высота, см">84</param>
 				<param name="Высота сиденья, см">45.5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">4</param><param name="Остаток МСК">11</param></offer>
+			<param name="Остаток СПБ">4</param><param name="Остаток МСК">9</param></offer>
 			<offer id="D0000000000000004805" available="true">
 				<name>Стул обеденный DOBRIN THEO, ножки светлый бук, цвет черный (B-03)</name>
 				<vendor>DOBRIN</vendor>
@@ -88810,7 +88810,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">26</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">18</param><param name="Остаток МСК">16</param></offer>
+			<param name="Остаток СПБ">18</param><param name="Остаток МСК">14</param></offer>
 			<offer id="D0000000000000004732" available="true">
 				<name>Стул барный DOBRIN LOGAN BLACK, черный велюр (MJ9-101)</name>
 				<vendor>DOBRIN</vendor>
@@ -91930,7 +91930,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">17</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">13</param></offer>
 			<offer id="D0000000000000010537" available="false">
 				<name>Стул барный DOBRIN TAILOR WHITE, пудрово-голубой велюр (MJ9-74)</name>
 				<vendor>DOBRIN</vendor>
@@ -93121,7 +93121,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">33</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">7</param></offer>
 			<offer id="D0000000000000010545" available="true">
 				<name>Стул барный DOBRIN CHARLY BLACK, серый велюр (MJ9-75)</name>
 				<vendor>DOBRIN</vendor>
@@ -101738,7 +101738,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5008-LM_BRUNO/5008-LM_BRUNO_korichnevyy/Size_LM-5008.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190509613</barcode>
-				<stock>28</stock>
+				<stock>27</stock>
 				<weight>5.7</weight>
 				<param name="ID">D0000000000000010961</param>
 				<param name="Артикул">LM-5008-N_CH-M_EL-brown</param>
@@ -101750,7 +101750,7 @@
 				<param name="Прайс ОПТ, руб">6670</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">7540</param>
 				<param name="Прайс РРЦ, руб">8680</param>
-				<param name="Остаток">28</param>
+				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">25.11.2026</param>
@@ -101791,7 +101791,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">28</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">27</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000010962" available="true">
 				<name>Набор 2 шт Табурет барный DOBRIN BRUNO, красный</name>
 				<vendor>DOBRIN</vendor>
@@ -103837,7 +103837,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5007-LM_LOGAN/5007-LM_LOGAN_kremovyy/Size_LM-5007.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190508586</barcode>
-				<stock>16</stock>
+				<stock>15</stock>
 				<weight>6.4</weight>
 				<param name="ID">D0000000000000010994</param>
 				<param name="Артикул">LM-5007-N_CH-M_EL-cream</param>
@@ -103849,7 +103849,7 @@
 				<param name="Прайс ОПТ, руб">7710</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">8720</param>
 				<param name="Прайс РРЦ, руб">10030</param>
-				<param name="Остаток">16</param>
+				<param name="Остаток">15</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -103892,7 +103892,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">26</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">16</param><param name="Остаток МСК">7</param></offer>
+			<param name="Остаток СПБ">15</param><param name="Остаток МСК">7</param></offer>
 			<offer id="D0000000000000010995" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN LOGAN, мокко</name>
 				<vendor>DOBRIN</vendor>
@@ -104487,7 +104487,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">26</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">9</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">9</param><param name="Остаток МСК">7</param></offer>
 			<offer id="D0000000000000011004" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN LOGAN BLACK, серый велюр (MJ9-75)</name>
 				<vendor>DOBRIN</vendor>
@@ -105783,7 +105783,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">22</param><param name="Остаток МСК">7</param></offer>
+			<param name="Остаток СПБ">22</param><param name="Остаток МСК">6</param></offer>
 			<offer id="D0000000000000012089" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN CANDY, кремовый</name>
 				<vendor>DOBRIN</vendor>
@@ -105953,7 +105953,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5006-LM_CANDY/5006-LM_CANDY_chernyy/Size_LM-5006.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167592604</barcode>
-				<stock>19</stock>
+				<stock>18</stock>
 				<weight>7.5</weight>
 				<param name="ID">D0000000000000012091</param>
 				<param name="Артикул">LM-5006-N_CH-M_EL-black</param>
@@ -105965,7 +105965,7 @@
 				<param name="Прайс ОПТ, руб">7710</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">8720</param>
 				<param name="Прайс РРЦ, руб">10030</param>
-				<param name="Остаток">19</param>
+				<param name="Остаток">18</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -106008,7 +106008,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">19</param><param name="Остаток МСК">10</param></offer>
+			<param name="Остаток СПБ">18</param><param name="Остаток МСК">10</param></offer>
 			<offer id="D0000000000000011033" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN KRUGER, белый</name>
 				<vendor>DOBRIN</vendor>
@@ -108829,7 +108829,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">16</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">16</param><param name="Остаток МСК">6</param></offer>
 			<offer id="D0000000000000011076" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN TAILOR WHITE, морской волны велюр (MJ9-99)</name>
 				<vendor>DOBRIN</vendor>
@@ -110773,7 +110773,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5016-LM_GOLDIE/5016-LM_GOLDIE_pudrovo-rozovyy_velyur_(MJ9-32)/Size_LM-5016.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190508203</barcode>
-				<stock>29</stock>
+				<stock>28</stock>
 				<weight>8.9</weight>
 				<param name="ID">D0000000000000011116</param>
 				<param name="Артикул">LM-5016-N_G-M_V-MJ9-32</param>
@@ -110785,7 +110785,7 @@
 				<param name="Прайс ОПТ, руб">10710</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">12110</param>
 				<param name="Прайс РРЦ, руб">13930</param>
-				<param name="Остаток">29</param>
+				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">11.01.2027</param>
@@ -110828,7 +110828,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">29</param><param name="Остаток МСК">26</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">26</param></offer>
 			<offer id="D0000000000000011117" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN GOLDIE, пудрово-сиреневый велюр (MJ9-52)</name>
 				<vendor>DOBRIN</vendor>
@@ -111141,7 +111141,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5018-LM_DOMINIC/5018-LM_DOMINIC_bordo_velyur_(MJ9-43)/Size_LM-5018.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190508029</barcode>
-				<stock>2</stock>
+				<stock>1</stock>
 				<weight>8.5</weight>
 				<param name="ID">D0000000000000011122</param>
 				<param name="Артикул">LM-5018-N_B-M_V-MJ9-43</param>
@@ -111153,7 +111153,7 @@
 				<param name="Прайс ОПТ, руб">8570</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9690</param>
 				<param name="Прайс РРЦ, руб">11150</param>
-				<param name="Остаток">2</param>
+				<param name="Остаток">1</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -111196,7 +111196,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">2</param><param name="Остаток МСК">2</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">2</param></offer>
 			<offer id="D0000000000000011123" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN DOMINIC, зеленый велюр (MJ9-88)</name>
 				<vendor>DOBRIN</vendor>
@@ -120217,7 +120217,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/3013-LM_TOMMY/3013-LM_TOMMY_seryy/Size_LM-3013.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190509231</barcode>
-				<stock>14</stock>
+				<stock>13</stock>
 				<weight>5</weight>
 				<param name="ID">D0000000000000011270</param>
 				<param name="Артикул">LM-3013-N_CH-M_EL-188-55</param>
@@ -120229,7 +120229,7 @@
 				<param name="Прайс ОПТ, руб">5920</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">6690</param>
 				<param name="Прайс РРЦ, руб">7700</param>
-				<param name="Остаток">14</param>
+				<param name="Остаток">13</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.12.2026</param>
@@ -120272,7 +120272,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">6</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">14</param><param name="Остаток МСК">9</param></offer>
+			<param name="Остаток СПБ">13</param><param name="Остаток МСК">9</param></offer>
 			<offer id="D0000000000000011273" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN TOMMY, чёрный</name>
 				<vendor>DOBRIN</vendor>
@@ -121231,7 +121231,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">19</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">1</param><param name="Остаток МСК">2</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">1</param></offer>
 			<offer id="D0000000000000011295" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN MIRA, красный</name>
 				<vendor>DOBRIN</vendor>
@@ -121378,7 +121378,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">19</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">6</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">6</param><param name="Остаток МСК">4</param></offer>
 			<offer id="D0000000000000011298" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN MIRA, оранжевый</name>
 				<vendor>DOBRIN</vendor>
@@ -126350,7 +126350,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/9400-LM_TERRY/9400-LM_TERRY_bezhevyy_velyur_(MJ9-10)/Size_LM-9400.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4640190020714</barcode>
-				<stock>20</stock>
+				<stock>19</stock>
 				<weight>8.4</weight>
 				<param name="ID">D0000000000000011377</param>
 				<param name="Артикул">LM-9400-N_CH-M_V-MJ9-10</param>
@@ -126362,8 +126362,8 @@
 				<param name="Прайс ОПТ, руб">9640</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">10900</param>
 				<param name="Прайс РРЦ, руб">12540</param>
-				<param name="Остаток">20</param>
-				<param name="Характеристика остатка">меньше 30</param>
+				<param name="Остаток">19</param>
+				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.11.2026</param>
 				<param name="Наличие РРЦ">12540</param>
@@ -126412,7 +126412,7 @@
 				<param name="Регулировка наклона спинки">нет</param>
 				<param name="Ролики">пластиковые</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">20</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">19</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000011378" available="true">
 				<name>Набор 2 шт Офисное кресло для персонала DOBRIN TERRY, белый</name>
 				<vendor>DOBRIN</vendor>
@@ -134442,7 +134442,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">33</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">4</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000012055" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN CHARLY BLACK, синий велюр (MJ9-117)</name>
 				<vendor>DOBRIN</vendor>
@@ -145350,7 +145350,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">26</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">30</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">29</param></offer>
 			<offer id="D0000000000000011714" available="true">
 				<name>Стул барный DOBRIN DARCY BLACK, черный велюр (1922-21)</name>
 				<vendor>DOBRIN</vendor>
@@ -147380,7 +147380,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">1</param><param name="Остаток МСК">3</param></offer>
+			<param name="Остаток СПБ">1</param><param name="Остаток МСК">2</param></offer>
 			<offer id="D0000000000000011738" available="true">
 				<name>Пуф DOBRIN DANNY, черный PU</name>
 				<vendor>DOBRIN</vendor>
@@ -148227,7 +148227,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">14</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">12</param></offer>
 			<offer id="D0000000000000011998" available="true">
 				<name>Табурет барный DOBRIN BRUNO GOLD, зеленый велюр (MJ9-88)</name>
 				<vendor>DOBRIN</vendor>
@@ -148471,7 +148471,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5011_BlackBase-LM_KRUGER_ARM_BLACK/5011_BlackBase-LM_KRUGER_ARM_BLACK_bezhevyy_velvet_(LAR-E2041-04)/Size_LM-5011_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595582</barcode>
-				<stock>3</stock>
+				<stock>2</stock>
 				<weight>8.8</weight>
 				<param name="ID">D0000000000000012867</param>
 				<param name="Артикул">LM-5011_B-M_VV-LAR-E2041-04</param>
@@ -148483,7 +148483,7 @@
 				<param name="Прайс ОПТ, руб">4920</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">5560</param>
 				<param name="Прайс РРЦ, руб">6400</param>
-				<param name="Остаток">3</param>
+				<param name="Остаток">2</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -148532,7 +148532,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">3</param><param name="Остаток МСК">1</param></offer>
+			<param name="Остаток СПБ">2</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000012868" available="true">
 				<name>Стул барный DOBRIN KRUGER ARM BLACK, зеленый вельвет (LAR-E2041-7)</name>
 				<vendor>DOBRIN</vendor>
@@ -149645,7 +149645,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/3051_BlackBase-LM_BILLY_BLACK/3051_BlackBase-LM_BILLY_BLACK_chernyy/Size_LM-3051_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167592826</barcode>
-				<stock>15</stock>
+				<stock>13</stock>
 				<weight>3.5</weight>
 				<param name="ID">D0000000000000011812</param>
 				<param name="Артикул">LM-3051_B-M_EL-black</param>
@@ -149657,7 +149657,7 @@
 				<param name="Прайс ОПТ, руб">2130</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">2410</param>
 				<param name="Прайс РРЦ, руб">2770</param>
-				<param name="Остаток">15</param>
+				<param name="Остаток">13</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">04.01.2027</param>
@@ -149703,7 +149703,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">15</param><param name="Остаток МСК">19</param></offer>
+			<param name="Остаток СПБ">13</param><param name="Остаток МСК">19</param></offer>
 			<offer id="D0000000000000011814" available="true">
 				<name>Стул барный DOBRIN JOSEPH BLACK, зеленый велюр (MJ9-88)</name>
 				<vendor>DOBRIN</vendor>
@@ -153618,7 +153618,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">28</param><param name="Остаток МСК">7</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">6</param></offer>
 			<offer id="D0000000000000012078" available="true">
 				<name>Набор 2 шт Табурет барный DOBRIN BRUNO GOLD, зеленый велюр (MJ9-88)</name>
 				<vendor>DOBRIN</vendor>
@@ -155498,7 +155498,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMZL/601PP-LMZL_MASTERS/601PP-LMZL_MASTERS_zelenyy_khaki_(G-17)/Size_LMZL-PP601.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167593113</barcode>
-				<stock>3</stock>
+				<stock>2</stock>
 				<weight>4</weight>
 				<param name="ID">D0000000000000012192</param>
 				<param name="Артикул">LMZL-PP601-N4_P-G-17</param>
@@ -155510,7 +155510,7 @@
 				<param name="Прайс ОПТ, руб">11140</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">12590</param>
 				<param name="Прайс РРЦ, руб">14490</param>
-				<param name="Остаток">3</param>
+				<param name="Остаток">2</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">28.12.2026</param>
@@ -155548,7 +155548,7 @@
 				<param name="Высота, см">81</param>
 				<param name="Высота сиденья, см">44</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">3</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">2</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000012193" available="true">
 				<name>Набор 4 шт Стул обеденный DOBRIN MASTERS, кирпичный (R-05)</name>
 				<vendor>DOBRIN</vendor>
@@ -157111,7 +157111,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5011_BlackBase-LM_KRUGER_ARM_BLACK/5011_BlackBase-LM_KRUGER_ARM_BLACK_kakao_velvet_(LAR-E2041-05)/Size_LM-5011_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596008</barcode>
-				<stock>19</stock>
+				<stock>17</stock>
 				<weight>8.8</weight>
 				<param name="ID">D0000000000000013000</param>
 				<param name="Артикул">LM-5011-N_B-M_VV-LAR-E2041-05</param>
@@ -157123,7 +157123,7 @@
 				<param name="Прайс ОПТ, руб">9430</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">10660</param>
 				<param name="Прайс РРЦ, руб">12260</param>
-				<param name="Остаток">19</param>
+				<param name="Остаток">17</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">23.12.2026</param>
@@ -157166,7 +157166,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
-			<param name="Остаток СПБ">19</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">17</param><param name="Остаток МСК">8</param></offer>
 			<offer id="D0000000000000013001" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN KRUGER ARM BLACK, зеленый вельвет (LAR-E2041-7)</name>
 				<vendor>DOBRIN</vendor>
@@ -158765,7 +158765,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/8078-1-LML_OLIVIA/8078-1-LML_OLIVIA_chernye_matovye_nozhki__chernyy_velyur_(108-77)/Size_LML-8078-1.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167594653</barcode>
-				<stock>25</stock>
+				<stock>23</stock>
 				<weight>6.1</weight>
 				<param name="ID">D0000000000000012405</param>
 				<param name="Артикул">LML-8078-1_B-M_V-108-77</param>
@@ -158777,7 +158777,7 @@
 				<param name="Прайс ОПТ, руб">4230</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">4780</param>
 				<param name="Прайс РРЦ, руб">5500</param>
-				<param name="Остаток">25</param>
+				<param name="Остаток">23</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">03.12.2026</param>
@@ -158822,7 +158822,7 @@
 				<param name="Высота, см">94</param>
 				<param name="Высота сиденья, см">66</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">25</param><param name="Остаток МСК">24</param></offer>
+			<param name="Остаток СПБ">23</param><param name="Остаток МСК">24</param></offer>
 			<offer id="D0000000000000012406" available="true">
 				<name>Стул полубарный DOBRIN OLIVIA, черные матовые ножки, зелёный велюр (108-64)</name>
 				<vendor>DOBRIN</vendor>
@@ -160816,7 +160816,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/8078-1-LML_OLIVIA/8078-1-LML_OLIVIA_chernye_matovye_nozhki__chernyy_velyur_(108-77)/Size_LML-8078-1.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167594851</barcode>
-				<stock>12</stock>
+				<stock>11</stock>
 				<weight>6.1</weight>
 				<param name="ID">D0000000000000012436</param>
 				<param name="Артикул">LML-8078-1-N_B-M_V-108-77</param>
@@ -160828,7 +160828,7 @@
 				<param name="Прайс ОПТ, руб">8060</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9110</param>
 				<param name="Прайс РРЦ, руб">10480</param>
-				<param name="Остаток">12</param>
+				<param name="Остаток">11</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">03.12.2026</param>
@@ -160867,7 +160867,7 @@
 				<param name="Высота спинки, см">33</param>
 				<param name="Высота, см">94</param>
 				<param name="Высота сиденья, см">66</param>
-			<param name="Остаток СПБ">12</param><param name="Остаток МСК">12</param></offer>
+			<param name="Остаток СПБ">11</param><param name="Остаток МСК">12</param></offer>
 			<offer id="D0000000000000012438" available="true">
 				<name>Набор 4 шт Стул барный DOBRIN ROYCE BLACK, чёрный (B-03)</name>
 				<vendor>DOBRIN</vendor>
