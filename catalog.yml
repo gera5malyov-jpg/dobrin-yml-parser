@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-24T22:32:48">
+<yml_catalog date="2026-11-25T06:47:41">
 	<shop>
 		<company>DOBRIN</company>
 		<url>https://d-o-b-r-i-n.com/</url>
@@ -1030,7 +1030,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3890</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.366</param>
@@ -3154,7 +3154,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5037_BlackBase-LM_TRAVIS/5037_BlackBase-LM_TRAVIS_kakao_(VIVALDI43)/Size_LM-5037_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595278</barcode>
-				<stock>14</stock>
+				<stock>12</stock>
 				<weight>6.8</weight>
 				<param name="ID">D0000000000000012872</param>
 				<param name="Артикул">LM-5037_B-M_VIVALDI43</param>
@@ -3166,7 +3166,7 @@
 				<param name="Прайс ОПТ, руб">4270</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">4830</param>
 				<param name="Прайс РРЦ, руб">5560</param>
-				<param name="Остаток">14</param>
+				<param name="Остаток">12</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">08.01.2027</param>
@@ -3215,7 +3215,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">14</param><param name="Остаток МСК">6</param></offer>
+			<param name="Остаток СПБ">12</param><param name="Остаток МСК">6</param></offer>
 			<offer id="D0000000000000012873" available="true">
 				<name>Стул барный DOBRIN TRAVIS, серый (VIVALDI15)</name>
 				<vendor>DOBRIN</vendor>
@@ -3476,7 +3476,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">6830</param>
 				<param name="Объем розничной упаковки">0.111</param>
 				<param name="Высота розничной упаковки">0.79</param>
@@ -3609,7 +3609,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">10870</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.366</param>
@@ -4351,8 +4351,7 @@
 				<param name="Прайс РРЦ, руб">5280</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">5280</param>
 				<param name="Объем розничной упаковки">0.072</param>
 				<param name="Высота розничной упаковки">0.71</param>
@@ -4613,7 +4612,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5037_BlackBase-LM_TRAVIS/5037_BlackBase-LM_TRAVIS_kakao_(VIVALDI43)/Size_LM-5037_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595902</barcode>
-				<stock>7</stock>
+				<stock>6</stock>
 				<weight>6.8</weight>
 				<param name="ID">D0000000000000012994</param>
 				<param name="Артикул">LM-5037-N_B-M_TT-VIVALDI43</param>
@@ -4625,7 +4624,7 @@
 				<param name="Прайс ОПТ, руб">8140</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9200</param>
 				<param name="Прайс РРЦ, руб">10590</param>
-				<param name="Остаток">7</param>
+				<param name="Остаток">6</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">08.01.2027</param>
@@ -4669,7 +4668,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">32</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">7</param><param name="Остаток МСК">3</param></offer>
+			<param name="Остаток СПБ">6</param><param name="Остаток МСК">3</param></offer>
 			<offer id="D0000000000000012995" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN TRAVIS, серый (VIVALDI15)</name>
 				<vendor>DOBRIN</vendor>
@@ -5442,7 +5441,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMR/111B-LMR_CARTER/111B-LMR_CARTER_seryy/Size_LMR-111B.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596107</barcode>
-				<stock>22</stock>
+				<stock>21</stock>
 				<weight>13.1</weight>
 				<param name="ID">D0000000000000013016</param>
 				<param name="Артикул">LMR-111B_M_MSH-grey</param>
@@ -5454,7 +5453,7 @@
 				<param name="Прайс ОПТ, руб">8550</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9670</param>
 				<param name="Прайс РРЦ, руб">11120</param>
-				<param name="Остаток">22</param>
+				<param name="Остаток">21</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">08.02.2027</param>
@@ -5509,7 +5508,7 @@
 				<param name="Регулировка наклона спинки">нет</param>
 				<param name="Ролики">прорезиненные пластиковые</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">22</param><param name="Остаток МСК">17</param></offer>
+			<param name="Остаток СПБ">21</param><param name="Остаток МСК">17</param></offer>
 			<offer id="D0000000000000013021" available="true">
 				<name>Набор 2 шт Табурет барный DOBRIN TEDDY BLACK, белый букле (13)</name>
 				<vendor>DOBRIN</vendor>
@@ -5607,8 +5606,7 @@
 				<param name="Прайс РРЦ, руб">9610</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">9610</param>
 				<param name="Объем розничной упаковки">0.037</param>
 				<param name="Высота розничной упаковки">0.15</param>
@@ -5878,8 +5876,7 @@
 				<param name="Прайс РРЦ, руб">5010</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">5010</param>
 				<param name="Объем розничной упаковки">0.024</param>
 				<param name="Высота розничной упаковки">0.14</param>
@@ -7029,7 +7026,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMR/111B-LMR_CARTER/111B-LMR_CARTER_seryy/Size_LMR-111B.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596305</barcode>
-				<stock>11</stock>
+				<stock>10</stock>
 				<weight>13.1</weight>
 				<param name="ID">D0000000000000013175</param>
 				<param name="Артикул">LMR-111B-N_CH-M_MSH-grey</param>
@@ -7041,7 +7038,7 @@
 				<param name="Прайс ОПТ, руб">16700</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">18880</param>
 				<param name="Прайс РРЦ, руб">21710</param>
-				<param name="Остаток">11</param>
+				<param name="Остаток">10</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">08.02.2027</param>
@@ -7091,7 +7088,7 @@
 				<param name="Регулировка наклона спинки">нет</param>
 				<param name="Ролики">прорезиненные пластиковые</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">11</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">10</param><param name="Остаток МСК">8</param></offer>
 			<offer id="D0000000000000013176" available="true">
 				<name>Набор 2 шт Офисное кресло для персонала DOBRIN CARTER, бежевый (22039)</name>
 				<vendor>DOBRIN</vendor>
@@ -7284,7 +7281,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">11120</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -7497,7 +7494,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/7405-LML_KENAN/7405-LML_KENAN_bezhevaya_len_(G681-13A)/LML-7405-N_BG_Li-G681-13A.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167599177</barcode>
-				<stock>18</stock>
+				<stock>17</stock>
 				<weight>6.9</weight>
 				<param name="ID">D0000000000000013197</param>
 				<param name="Артикул">LML-7405_BG_Li-G681-13A</param>
@@ -7509,7 +7506,7 @@
 				<param name="Прайс ОПТ, руб">7290</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">8240</param>
 				<param name="Прайс РРЦ, руб">9490</param>
-				<param name="Остаток">18</param>
+				<param name="Остаток">17</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">05.02.2027</param>
@@ -7553,7 +7550,7 @@
 				<param name="Высота спинки, см">34</param>
 				<param name="Высота, см">82</param>
 				<param name="Высота сиденья, см">50</param>
-			<param name="Остаток СПБ">18</param><param name="Остаток МСК">15</param></offer>
+			<param name="Остаток СПБ">17</param><param name="Остаток МСК">15</param></offer>
 			<offer id="D0000000000000013205" available="true">
 				<name>Стул обеденный DOBRIN KENAN, серый лен (G681-21A)</name>
 				<vendor>DOBRIN</vendor>
@@ -7660,8 +7657,7 @@
 				<param name="Прайс РРЦ, руб">8830</param>
 				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">8830</param>
 				<param name="Объем розничной упаковки">0.278</param>
 				<param name="Высота розничной упаковки">0.42</param>
@@ -7969,7 +7965,7 @@
 				<param name="Остаток">15</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">10170</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -8845,7 +8841,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">11150</param>
 				<param name="Объем розничной упаковки">0.449</param>
 				<param name="Высота розничной упаковки">1.26</param>
@@ -9057,7 +9053,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">16710</param>
 				<param name="Объем розничной упаковки">0.449</param>
 				<param name="Высота розничной упаковки">1.26</param>
@@ -10026,7 +10022,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">7250</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -10995,7 +10991,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">10870</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -11389,7 +11385,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">7800</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -11741,7 +11737,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">11700</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -11952,7 +11948,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.13</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -12168,7 +12164,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.13</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -12238,7 +12234,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -12454,7 +12450,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -12525,7 +12521,7 @@
 				<param name="Остаток">12</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.27</param>
 				<param name="Высота розничной упаковки">1.02</param>
@@ -12736,7 +12732,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.27</param>
 				<param name="Высота розничной упаковки">1.02</param>
@@ -12807,7 +12803,7 @@
 				<param name="Остаток">8</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.27</param>
 				<param name="Высота розничной упаковки">1.02</param>
@@ -13018,7 +13014,7 @@
 				<param name="Остаток">21</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.27</param>
 				<param name="Высота розничной упаковки">1.02</param>
@@ -13868,7 +13864,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">7250</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.366</param>
@@ -13939,7 +13935,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -14077,7 +14073,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">6440</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -14284,7 +14280,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.472</param>
 				<param name="Высота розничной упаковки">0.74</param>
@@ -14422,7 +14418,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9660</param>
 				<param name="Объем розничной упаковки">0.472</param>
 				<param name="Высота розничной упаковки">0.74</param>
@@ -14631,7 +14627,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">9420</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -14921,7 +14917,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">14120</param>
 				<param name="Объем розничной упаковки">0.472</param>
 				<param name="Высота розничной упаковки">0.74</param>
@@ -22643,8 +22639,7 @@
 				<param name="Прайс РРЦ, руб">10390</param>
 				<param name="Остаток">19</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
 				<param name="Наличие РРЦ">10390</param>
 				<param name="Объем розничной упаковки">0.067</param>
@@ -22824,8 +22819,7 @@
 				<param name="Прайс РРЦ, руб">10390</param>
 				<param name="Остаток">26</param>
 				<param name="Характеристика остатка">меньше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
 				<param name="Наличие РРЦ">10390</param>
 				<param name="Объем розничной упаковки">0.067</param>
@@ -22948,8 +22942,7 @@
 				<param name="Прайс РРЦ, руб">10390</param>
 				<param name="Остаток">25</param>
 				<param name="Характеристика остатка">меньше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
 				<param name="Наличие РРЦ">10390</param>
 				<param name="Объем розничной упаковки">0.072</param>
@@ -23193,8 +23186,7 @@
 				<param name="Прайс РРЦ, руб">10990</param>
 				<param name="Остаток">17</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Новинка">Х</param>
 				<param name="Наличие РРЦ">10990</param>
 				<param name="Объем розничной упаковки">0.068</param>
@@ -23380,7 +23372,7 @@
 				<param name="Остаток">16</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">21710</param>
 				<param name="Объем розничной упаковки">0.28</param>
 				<param name="Высота розничной упаковки">0.52</param>
@@ -23670,7 +23662,7 @@
 				<param name="Остаток">7</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">05.02.2027</param>
 				<param name="Наличие РРЦ">19800</param>
 				<param name="Объем розничной упаковки">0.53</param>
 				<param name="Высота розничной упаковки">0.47</param>
@@ -24625,8 +24617,7 @@
 				<param name="Прайс РРЦ, руб">17140</param>
 				<param name="Остаток">13</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">17140</param>
 				<param name="Объем розничной упаковки">0.35</param>
 				<param name="Высота розничной упаковки">0.41</param>
@@ -24683,7 +24674,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/7405-LML_KENAN/7405-LML_KENAN_bezhevaya_len_(G681-13A)/LML-7405-N_BG_Li-G681-13A.jpg</picture>
 				<country_of_origin />
 				<barcode>4620167599252</barcode>
-				<stock>9</stock>
+				<stock>8</stock>
 				<weight>6.9</weight>
 				<param name="ID">D0000000000000013744</param>
 				<param name="Артикул">LML-7405-N_BG_Li-G681-13A</param>
@@ -24695,7 +24686,7 @@
 				<param name="Прайс ОПТ, руб">14180</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">16030</param>
 				<param name="Прайс РРЦ, руб">18440</param>
-				<param name="Остаток">9</param>
+				<param name="Остаток">8</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">05.02.2027</param>
@@ -24734,7 +24725,7 @@
 				<param name="Высота спинки, см">34</param>
 				<param name="Высота, см">82</param>
 				<param name="Высота сиденья, см">50</param>
-			<param name="Остаток СПБ">9</param><param name="Остаток МСК">7</param></offer>
+			<param name="Остаток СПБ">8</param><param name="Остаток МСК">7</param></offer>
 			<offer id="D0000000000000013745" available="true">
 				<name>Набор 2 шт Стул обеденный DOBRIN KENAN, серый лен (G681-21A)</name>
 				<vendor>DOBRIN</vendor>
@@ -25497,8 +25488,7 @@
 				<param name="Прайс РРЦ, руб">12220</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">12220</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.366</param>
@@ -25570,8 +25560,7 @@
 				<param name="Прайс РРЦ, руб">18330</param>
 				<param name="Остаток">25</param>
 				<param name="Характеристика остатка">меньше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">18330</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.366</param>
@@ -26028,7 +26017,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">7790</param>
 				<param name="Объем розничной упаковки">0.032</param>
 				<param name="Высота розничной упаковки">0.13</param>
@@ -26237,7 +26226,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">8080</param>
 				<param name="Объем розничной упаковки">0.111</param>
 				<param name="Высота розничной упаковки">0.79</param>
@@ -26263,7 +26252,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота, см">72</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">6</param></offer>
+			<param name="Остаток СПБ">30</param><param name="Остаток МСК">5</param></offer>
 			<offer id="D0000000000000000023" available="true">
 				<name>Подстолье барное DOBRIN LEONE HIGH</name>
 				<vendor>DOBRIN</vendor>
@@ -27395,7 +27384,7 @@
 				<param name="Остаток">2</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">5560</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -29531,7 +29520,7 @@
 				<param name="Остаток">1</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">5280</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -29818,7 +29807,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">4610</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -29888,7 +29877,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">4610</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -30375,7 +30364,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">4610</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -31297,7 +31286,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">4610</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -31802,8 +31791,7 @@
 				<param name="Прайс ДИЛЕРСКИЙ, руб">4510</param>
 				<param name="Остаток">10</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
 				<param name="Глубина розничной упаковки">0.56</param>
@@ -32575,7 +32563,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">6400</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -34313,7 +34301,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">8340</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -35170,7 +35158,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">7920</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -40201,7 +40189,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.01.2027</param>
 				<param name="Наличие РРЦ">4450</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -40630,7 +40618,7 @@
 				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.01.2027</param>
 				<param name="Наличие РРЦ">4110</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -43104,7 +43092,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">6530</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -43361,7 +43349,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">6530</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -43711,7 +43699,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">6530</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -46421,7 +46409,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.02.2027</param>
 				<param name="Наличие РРЦ">11830</param>
 				<param name="Объем розничной упаковки">0.181</param>
 				<param name="Высота розничной упаковки">0.36</param>
@@ -49676,7 +49664,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8620</param>
 				<param name="Объем розничной упаковки">0.107</param>
 				<param name="Высота розничной упаковки">0.64</param>
@@ -49750,7 +49738,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8620</param>
 				<param name="Объем розничной упаковки">0.107</param>
 				<param name="Высота розничной упаковки">0.64</param>
@@ -53074,7 +53062,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">3890</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.99</param>
@@ -54244,8 +54232,7 @@
 				<param name="Прайс РРЦ, руб">6370</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">6370</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.173</param>
@@ -58948,7 +58935,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">5840</param>
 				<param name="Объем розничной упаковки">0.426</param>
 				<param name="Высота розничной упаковки">1.26</param>
@@ -59355,8 +59342,7 @@
 				<param name="Прайс РРЦ, руб">4880</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">4880</param>
 				<param name="Объем розничной упаковки">0.072</param>
 				<param name="Высота розничной упаковки">0.51</param>
@@ -59947,7 +59933,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">13.01.2027</param>
 				<param name="Наличие РРЦ">5280</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -60414,7 +60400,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">5840</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -70422,7 +70408,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">03.12.2026</param>
 				<param name="Наличие РРЦ">5790</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -70648,8 +70634,7 @@
 				<param name="Прайс РРЦ, руб">5790</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">5790</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -71812,8 +71797,7 @@
 				<param name="Прайс РРЦ, руб">6240</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">6240</param>
 				<param name="Объем розничной упаковки">0.08</param>
 				<param name="Высота розничной упаковки">0.32</param>
@@ -73037,7 +73021,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">10.12.2026</param>
 				<param name="Наличие РРЦ">6400</param>
 				<param name="Объем розничной упаковки">0.094</param>
 				<param name="Высота розничной упаковки">0.34</param>
@@ -79585,7 +79569,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">5150</param>
 				<param name="Объем розничной упаковки">0.063</param>
 				<param name="Высота розничной упаковки">0.3</param>
@@ -81772,7 +81756,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -81922,7 +81906,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -83297,7 +83281,7 @@
 				<param name="Остаток">23</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">10980</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -83781,7 +83765,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">10980</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -84180,7 +84164,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">10570</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -84259,7 +84243,7 @@
 				<param name="Остаток">25</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.02.2027</param>
 				<param name="Наличие РРЦ">10570</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -85102,7 +85086,7 @@
 				<param name="Остаток">24</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.278</param>
 				<param name="Высота розничной упаковки">0.65</param>
@@ -85251,7 +85235,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.278</param>
 				<param name="Высота розничной упаковки">0.65</param>
@@ -85802,8 +85786,7 @@
 				<param name="Прайс РРЦ, руб">4320</param>
 				<param name="Остаток">7</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">4320</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -86140,7 +86123,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">7660</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -89017,7 +89000,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">5500</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -90437,7 +90420,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">4160</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -90965,7 +90948,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">4970</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -91349,8 +91332,7 @@
 				<param name="Прайс РРЦ, руб">10570</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">10570</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -92836,7 +92818,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5019_BlackBase-LM_CHARLY_BLACK/5019_BlackBase-LM_CHARLY_BLACK_terrakotovyy_tvid_(LEO56)/Size_LM-5019_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167595513</barcode>
-				<stock>9</stock>
+				<stock>8</stock>
 				<weight>8.9</weight>
 				<param name="ID">D0000000000000012864</param>
 				<param name="Артикул">LM-5019_B-M_CT-LEO56</param>
@@ -92848,7 +92830,7 @@
 				<param name="Прайс ОПТ, руб">6410</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">7250</param>
 				<param name="Прайс РРЦ, руб">8340</param>
-				<param name="Остаток">9</param>
+				<param name="Остаток">8</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">02.12.2026</param>
@@ -92897,7 +92879,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">33</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">9</param><param name="Остаток МСК">25</param></offer>
+			<param name="Остаток СПБ">8</param><param name="Остаток МСК">25</param></offer>
 			<offer id="D0000000000000013580" available="true">
 				<name>Стул барный DOBRIN CHARLY BLACK, коричневый твид (LEO45)</name>
 				<vendor>DOBRIN</vendor>
@@ -93405,7 +93387,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">12040</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.173</param>
@@ -93485,7 +93467,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">12040</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.173</param>
@@ -101702,7 +101684,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8680</param>
 				<param name="Объем розничной упаковки">0.075</param>
 				<param name="Высота розничной упаковки">0.39</param>
@@ -101768,7 +101750,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8680</param>
 				<param name="Объем розничной упаковки">0.075</param>
 				<param name="Высота розничной упаковки">0.39</param>
@@ -102227,7 +102209,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8680</param>
 				<param name="Объем розничной упаковки">0.075</param>
 				<param name="Высота розничной упаковки">0.39</param>
@@ -103035,7 +103017,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">8680</param>
 				<param name="Объем розничной упаковки">0.075</param>
 				<param name="Высота розничной упаковки">0.39</param>
@@ -103445,7 +103427,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">9780</param>
 				<param name="Объем розничной упаковки">0.075</param>
 				<param name="Высота розничной упаковки">0.39</param>
@@ -104093,7 +104075,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">13.01.2027</param>
 				<param name="Наличие РРЦ">10030</param>
 				<param name="Объем розничной упаковки">0.116</param>
 				<param name="Высота розничной упаковки">0.46</param>
@@ -104539,7 +104521,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">10480</param>
 				<param name="Объем розничной упаковки">0.116</param>
 				<param name="Высота розничной упаковки">0.46</param>
@@ -104766,7 +104748,7 @@
 				<param name="Остаток">6</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.271</param>
 				<param name="Высота розничной упаковки">1</param>
@@ -104977,7 +104959,7 @@
 				<param name="Остаток">15</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.271</param>
 				<param name="Высота розничной упаковки">1</param>
@@ -105910,7 +105892,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">10030</param>
 				<param name="Объем розничной упаковки">0.128</param>
 				<param name="Высота розничной упаковки">0.47</param>
@@ -106059,8 +106041,7 @@
 				<param name="Прайс РРЦ, руб">9350</param>
 				<param name="Остаток">5</param>
 				<param name="Характеристика остатка">меньше 20</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">9350</param>
 				<param name="Объем розничной упаковки">0.143</param>
 				<param name="Высота розничной упаковки">0.44</param>
@@ -106868,7 +106849,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">12260</param>
 				<param name="Объем розничной упаковки">0.166</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -110515,7 +110496,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">22290</param>
 				<param name="Объем розничной упаковки">0.449</param>
 				<param name="Высота розничной упаковки">1.26</param>
@@ -113559,7 +113540,7 @@
 				<param name="Остаток">11</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">21420</param>
 				<param name="Объем розничной упаковки">0.219</param>
 				<param name="Высота розничной упаковки">0.5</param>
@@ -113635,7 +113616,7 @@
 				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">21420</param>
 				<param name="Объем розничной упаковки">0.219</param>
 				<param name="Высота розничной упаковки">0.5</param>
@@ -114392,7 +114373,7 @@
 				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">20610</param>
 				<param name="Объем розничной упаковки">0.298</param>
 				<param name="Высота розничной упаковки">0.57</param>
@@ -114541,7 +114522,7 @@
 				<param name="Остаток">12</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.02.2027</param>
 				<param name="Наличие РРЦ">20610</param>
 				<param name="Объем розничной упаковки">0.298</param>
 				<param name="Высота розничной упаковки">0.57</param>
@@ -114910,7 +114891,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">18830</param>
 				<param name="Объем розничной упаковки">0.472</param>
 				<param name="Высота розничной упаковки">1.16</param>
@@ -115850,7 +115831,7 @@
 				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.01.2027</param>
 				<param name="Наличие РРЦ">8360</param>
 				<param name="Объем розничной упаковки">0.073</param>
 				<param name="Высота розничной упаковки">0.43</param>
@@ -116515,8 +116496,7 @@
 				<param name="Прайс РРЦ, руб">20620</param>
 				<param name="Остаток">24</param>
 				<param name="Характеристика остатка">меньше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">20620</param>
 				<param name="Объем розничной упаковки">0.219</param>
 				<param name="Высота розничной упаковки">0.5</param>
@@ -116666,7 +116646,7 @@
 				<param name="Остаток">29</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">15320</param>
 				<param name="Объем розничной упаковки">0.211</param>
 				<param name="Высота розничной упаковки">0.54</param>
@@ -117932,7 +117912,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">16150</param>
 				<param name="Объем розничной упаковки">0.211</param>
 				<param name="Высота розничной упаковки">0.54</param>
@@ -120103,7 +120083,7 @@
 				<param name="Остаток">14</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">04.01.2027</param>
 				<param name="Наличие РРЦ">7700</param>
 				<param name="Объем розничной упаковки">0.07</param>
 				<param name="Высота розничной упаковки">0.46</param>
@@ -120845,7 +120825,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">11150</param>
 				<param name="Объем розничной упаковки">0.124</param>
 				<param name="Высота розничной упаковки">0.52</param>
@@ -120904,7 +120884,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5001-LM_MIRA/5001-LM_MIRA_belyy/Size_LM-5001.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4660190508722</barcode>
-				<stock>26</stock>
+				<stock>25</stock>
 				<weight>6.7</weight>
 				<param name="ID">D0000000000000011289</param>
 				<param name="Артикул">LM-5001-N_CH-M_EL-white</param>
@@ -120916,7 +120896,7 @@
 				<param name="Прайс ОПТ, руб">8140</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9200</param>
 				<param name="Прайс РРЦ, руб">10590</param>
-				<param name="Остаток">26</param>
+				<param name="Остаток">25</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">30.11.2026</param>
@@ -120959,7 +120939,7 @@
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">19</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">26</param><param name="Остаток МСК">16</param></offer>
+			<param name="Остаток СПБ">25</param><param name="Остаток МСК">16</param></offer>
 			<offer id="D0000000000000011290" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN MIRA, бордовый</name>
 				<vendor>DOBRIN</vendor>
@@ -121356,7 +121336,7 @@
 				<param name="Остаток">1</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">10590</param>
 				<param name="Объем розничной упаковки">0.124</param>
 				<param name="Высота розничной упаковки">0.52</param>
@@ -122611,7 +122591,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">23560</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.215</param>
@@ -122687,7 +122667,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">23560</param>
 				<param name="Акция">Х</param>
 				<param name="Объем розничной упаковки">0.215</param>
@@ -125034,7 +125014,7 @@
 				<param name="Остаток">26</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">15600</param>
 				<param name="Объем розничной упаковки">0.472</param>
 				<param name="Высота розничной упаковки">0.74</param>
@@ -126133,7 +126113,7 @@
 				<param name="Остаток">20</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">14790</param>
 				<param name="Объем розничной упаковки">0.186</param>
 				<param name="Высота розничной упаковки">0.54</param>
@@ -126383,7 +126363,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">12540</param>
 				<param name="Объем розничной упаковки">0.19</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -126628,7 +126608,7 @@
 				<param name="Остаток">29</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">12540</param>
 				<param name="Объем розничной упаковки">0.19</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -127210,7 +127190,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">08.01.2027</param>
 				<param name="Наличие РРЦ">12540</param>
 				<param name="Объем розничной упаковки">0.19</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -132344,7 +132324,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LML/8078-LML_NICOLE/8078-LML_NICOLE_chernye_matovye_nozhki__korichnevaya_mikrofibra_(PK-03)/Size_LML-8078.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4640190024545</barcode>
-				<stock>29</stock>
+				<stock>28</stock>
 				<weight>6.4</weight>
 				<param name="ID">D0000000000000011470</param>
 				<param name="Артикул">LML-8078-N_B-M_MF-PK-03</param>
@@ -132356,7 +132336,7 @@
 				<param name="Прайс ОПТ, руб">8490</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">9600</param>
 				<param name="Прайс РРЦ, руб">11040</param>
-				<param name="Остаток">29</param>
+				<param name="Остаток">28</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">03.12.2026</param>
@@ -132396,7 +132376,7 @@
 				<param name="Высота, см">105</param>
 				<param name="Высота сиденья, см">75</param>
 				<param name="Дополнительная упаковка для ТК">Требуется паллетный борт</param>
-			<param name="Остаток СПБ">29</param><param name="Остаток МСК">16</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">16</param></offer>
 			<offer id="D0000000000000011471" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN NICOLE, черные матовые ножки, серая антрацитовая винтажная экокожа (RU-08)</name>
 				<vendor>DOBRIN</vendor>
@@ -132861,7 +132841,7 @@
 				<param name="Остаток">0</param>
 				<param name="Характеристика остатка">меньше 5</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">03.12.2026</param>
 				<param name="Наличие РРЦ">11040</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -133147,8 +133127,7 @@
 				<param name="Прайс РРЦ, руб">11040</param>
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">11040</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -143711,8 +143690,7 @@
 				<param name="Прайс РРЦ, руб">8120</param>
 				<param name="Остаток">3</param>
 				<param name="Характеристика остатка">меньше 5</param>
-				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Ожидается поступление">false</param>
 				<param name="Наличие РРЦ">8120</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.6</param>
@@ -144901,7 +144879,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -144975,7 +144953,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">3490</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -145265,7 +145243,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">6060</param>
 				<param name="Объем розничной упаковки">0.072</param>
 				<param name="Высота розничной упаковки">0.51</param>
@@ -149917,7 +149895,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">6000</param>
 				<param name="Объем розничной упаковки">0.123</param>
 				<param name="Высота розничной упаковки">0.45</param>
@@ -153111,7 +153089,7 @@
 				<param name="Остаток">16</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">16710</param>
 				<param name="Объем розничной упаковки">0.107</param>
 				<param name="Высота розничной упаковки">0.64</param>
@@ -153181,7 +153159,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">16710</param>
 				<param name="Объем розничной упаковки">0.107</param>
 				<param name="Высота розничной упаковки">0.64</param>
@@ -155102,7 +155080,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">02.12.2026</param>
 				<param name="Наличие РРЦ">11460</param>
 				<param name="Объем розничной упаковки">0.134</param>
 				<param name="Высота розничной упаковки">0.56</param>
@@ -155953,7 +155931,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">28.12.2026</param>
 				<param name="Наличие РРЦ">14490</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -156584,7 +156562,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -156653,7 +156631,7 @@
 				<param name="Остаток">27</param>
 				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.366</param>
 				<param name="Высота розничной упаковки">0.66</param>
@@ -156981,7 +156959,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5011_BlackBase-LM_KRUGER_ARM_BLACK/5011_BlackBase-LM_KRUGER_ARM_BLACK_chernyy_velvet_(LAR-E2041-52)/Size_LM-5011_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596022</barcode>
-				<stock>30</stock>
+				<stock>28</stock>
 				<weight>8.8</weight>
 				<param name="ID">D0000000000000012998</param>
 				<param name="Артикул">LM-5011-N_B-M_VV-LAR-E2041-52</param>
@@ -156993,8 +156971,8 @@
 				<param name="Прайс ОПТ, руб">9430</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">10660</param>
 				<param name="Прайс РРЦ, руб">12260</param>
-				<param name="Остаток">30</param>
-				<param name="Характеристика остатка">больше 30</param>
+				<param name="Остаток">28</param>
+				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">30.11.2026</param>
 				<param name="Наличие РРЦ">12260</param>
@@ -157036,7 +157014,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">5</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">5</param></offer>
 			<offer id="D0000000000000012999" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN KRUGER ARM BLACK, серый вельвет (LAR-E2041-25)</name>
 				<vendor>DOBRIN</vendor>
@@ -157131,7 +157109,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LM/5011_BlackBase-LM_KRUGER_ARM_BLACK/5011_BlackBase-LM_KRUGER_ARM_BLACK_kakao_velvet_(LAR-E2041-05)/Size_LM-5011_BlackBase.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167596008</barcode>
-				<stock>17</stock>
+				<stock>16</stock>
 				<weight>8.8</weight>
 				<param name="ID">D0000000000000013000</param>
 				<param name="Артикул">LM-5011-N_B-M_VV-LAR-E2041-05</param>
@@ -157143,7 +157121,7 @@
 				<param name="Прайс ОПТ, руб">9430</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">10660</param>
 				<param name="Прайс РРЦ, руб">12260</param>
-				<param name="Остаток">17</param>
+				<param name="Остаток">16</param>
 				<param name="Характеристика остатка">меньше 20</param>
 				<param name="Ожидается поступление">true</param>
 				<param name="Дата ожидаемого поступления">30.11.2026</param>
@@ -157186,7 +157164,7 @@
 				<param name="Гарантийный срок, мес.">12</param>
 				<param name="Минимальный срок службы, лет">5</param>
 				<param name="Высота спинки, см">31</param>
-			<param name="Остаток СПБ">17</param><param name="Остаток МСК">8</param></offer>
+			<param name="Остаток СПБ">16</param><param name="Остаток МСК">8</param></offer>
 			<offer id="D0000000000000013001" available="true">
 				<name>Набор 2 шт Стул барный DOBRIN KRUGER ARM BLACK, зеленый вельвет (LAR-E2041-7)</name>
 				<vendor>DOBRIN</vendor>
@@ -160281,7 +160259,7 @@
 				<param name="Остаток">30</param>
 				<param name="Характеристика остатка">больше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -160482,7 +160460,7 @@
 				<picture>https://partner.d-o-b-r-i-n.com/Photo/DOBRIN/LMZL/687PP-LMZL_THEO/687PP-LMZL_THEO_nozhki_svetlyy_buk__tsvet_chernyy_(B-03)/Size_LMZL-PР687.jpg</picture>
 				<country_of_origin>Китай</country_of_origin>
 				<barcode>4620167594493</barcode>
-				<stock>30</stock>
+				<stock>28</stock>
 				<weight>4.1</weight>
 				<param name="ID">D0000000000000012427</param>
 				<param name="Артикул">LMZL-PP687-N_LB-TR_P-B-03</param>
@@ -160494,10 +160472,10 @@
 				<param name="Прайс ОПТ, руб">9900</param>
 				<param name="Прайс ДИЛЕРСКИЙ, руб">11190</param>
 				<param name="Прайс РРЦ, руб">12870</param>
-				<param name="Остаток">30</param>
-				<param name="Характеристика остатка">больше 30</param>
+				<param name="Остаток">28</param>
+				<param name="Характеристика остатка">меньше 30</param>
 				<param name="Ожидается поступление">true</param>
-				<param name="Дата ожидаемого поступления">25.11.2026</param>
+				<param name="Дата ожидаемого поступления">11.01.2027</param>
 				<param name="Наличие РРЦ">12870</param>
 				<param name="Объем розничной упаковки">0.173</param>
 				<param name="Высота розничной упаковки">0.59</param>
@@ -160532,7 +160510,7 @@
 				<param name="Высота спинки, см">41</param>
 				<param name="Высота, см">84</param>
 				<param name="Высота сиденья, см">45.5</param>
-			<param name="Остаток СПБ">30</param><param name="Остаток МСК">0</param></offer>
+			<param name="Остаток СПБ">28</param><param name="Остаток МСК">0</param></offer>
 			<offer id="D0000000000000012432" available="true">
 				<name>Набор 2 шт Стул полубарный DOBRIN OLIVIA, черные матовые ножки, серая антрацитовая винтажная экокожа (RU-08)</name>
 				<vendor>DOBRIN</vendor>
